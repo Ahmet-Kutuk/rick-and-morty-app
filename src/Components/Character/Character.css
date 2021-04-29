@@ -1,0 +1,9 @@
+h3{
+    color:#114e60;
+}
+.box:hover
+{
+-webkit-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+}
