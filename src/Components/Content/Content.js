@@ -13,7 +13,7 @@ const Content = () => {
       }
       else{
           alert("Gösterilecek bir şey kalmadı..");
-          setPageCount(1);
+          setPageCount(34);
       }
       
   }
